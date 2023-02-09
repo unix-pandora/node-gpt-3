@@ -58,7 +58,7 @@ touch last-question.txt  questions.txt  recvice.txt;
 
 <hr>
 
-# 注意
+# be careful
 
 - The submitted question cannot be empty, too short or too long (i.e. more than 1024 characters)
 
