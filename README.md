@@ -5,7 +5,7 @@
 
 # brief introduction
 
-Call GPT-3 interface based on NodeJS to realize question and answer with AI
+Call GPT-3 interface based on NodeJS to realize question and answer with AI.
 
 <hr>
 
