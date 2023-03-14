@@ -44,6 +44,7 @@ cd txt;
 
 touch last-question.txt  questions.txt  recvice.txt;
 
+echo "..." | tee -a last-question.txt;
 ```
 
 <hr>
